@@ -1,2 +1,2 @@
 # Model Architecture
-<img src="model.png">
+<img src="net.png">
